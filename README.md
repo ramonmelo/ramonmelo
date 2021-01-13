@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me:
 
-- 📧 Email: me@ramonmelo.com
+- 📧 Email: ramonmelo@ramonmelo.com
 - 🔗 [Linkedin](https://www.linkedin.com/in/ramonmelo/)
 - 📸 [Instagram](https://www.instagram.com/ramonsmelo/)
 
