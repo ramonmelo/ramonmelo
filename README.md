@@ -6,12 +6,6 @@
   - [Photon Fusion](https://www.photonengine.com/en-US/Fusion) 
   - [Photon Bolt](https://www.photonengine.com/en-US/BOLT)
 
-### 📫 How to reach me:
-
-- 📧 Email: ramonmelo@ramonmelo.com
-- 🔗 [Linkedin](https://www.linkedin.com/in/ramonmelo/)
-- 📸 [Instagram](https://www.instagram.com/welt.sehen/)
-
 <!--
 **ramonmelo/ramonmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
